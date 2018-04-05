@@ -1,0 +1,6 @@
+framework module Pods_RestAppUITests {
+  umbrella header "Pods-RestAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

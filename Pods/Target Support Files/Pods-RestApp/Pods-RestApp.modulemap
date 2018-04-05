@@ -1,0 +1,6 @@
+framework module Pods_RestApp {
+  umbrella header "Pods-RestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
